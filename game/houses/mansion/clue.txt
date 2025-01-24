@@ -1,0 +1,5 @@
+Investigation Update:
+
+You notice fresh footprints leading towards the garden.
+
+Remember: Use 'cd "garden"' to follow this lead.
