@@ -1,14 +1,14 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Chef
+- [x] The Chef
 - [x] The Blacksmith
 - [ ] The Mayor
 
 ## Weapons
-- [ ] Bronze Trophy
+- [x] Bronze Trophy
 - [ ] Antique Compass
-- [ ] Fountain Pen
+- [x] Fountain Pen
 
 ## Notes
 *Use this space to record your findings and deductions...*
@@ -22,5 +22,9 @@ El chef está en la mansión.
 
 El chef es el único sospechoso en la sección de Houses.
 El trofeo de bronce es el unico arma sospechosa en la sección Houses.
+
+La pluma se encuentra en market.
+
+El herrero está en Bakery.
 
 Location of the crime is still unknown - the room must have been empty when it happened...
