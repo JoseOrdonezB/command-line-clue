@@ -1,12 +1,12 @@
 # Detective's Notebook
 
 ## Suspects
-- [x] The Chef
-- [ ] The Blacksmith
+- [ ] The Chef
+- [x] The Blacksmith
 - [ ] The Mayor
 
 ## Weapons
-- [x] Bronze Trophy
+- [ ] Bronze Trophy
 - [ ] Antique Compass
 - [ ] Fountain Pen
 
@@ -14,5 +14,7 @@
 *Use this space to record your findings and deductions...*
 El chef se encuentra en la mansión.
 El trofeo de bronce en el invernadero
+
+El crimem fue realizado en Kitchen
 
 Location of the crime is still unknown - the room must have been empty when it happened...
