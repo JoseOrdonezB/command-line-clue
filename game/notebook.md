@@ -17,4 +17,6 @@ El trofeo de bronce en el invernadero
 
 El crimem fue realizado en Kitchen
 
+Park, School y Town Hall están libres de sospechosos y armas.
+
 Location of the crime is still unknown - the room must have been empty when it happened...
